@@ -5,6 +5,14 @@ This project combines **YOLOv12 object detection** with **lane detection**, real
 
 ---
 
+## Output
+
+
+https://github.com/user-attachments/assets/ed430f30-bcfa-4fc5-962c-ed0ae9233abf
+
+
+
+
 ## ✅ Features
 
 - Real-time object detection using YOLOv12:
